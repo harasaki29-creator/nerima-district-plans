@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+lxml
+PyMuPDF
+pdfminer.six
+pandas
+tqdm
+opencv-python-headless
+shapely
+geopandas
+python-magic
